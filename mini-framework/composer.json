@@ -1,0 +1,17 @@
+{
+    "name": "staditek/mini-framework",
+    "description": "PHP",
+    "type": "project",
+    "authors": [
+        {
+            "name": "saa",
+            "email": "sitinurelysaa@gmail.com"
+
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Staditek\\App\\" : "App"
+        }
+    }
+}
